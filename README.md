@@ -271,6 +271,7 @@ ai-hedge-fund/
 
 If you have a feature request, please open an [issue](https://github.com/virattt/ai-hedge-fund/issues) and make sure it is tagged with `enhancement`.
 
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
